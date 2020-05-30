@@ -1,0 +1,28 @@
+{
+  "name": "ytviewer",
+  "version": "1.0.0",
+  "description": "An educational proj using puppeteer for web pages controlling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithjavascript/ytViewer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "web",
+    "scraping"
+  ],
+  "author": "CodeWithJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewithjavascript/ytViewer/issues"
+  },
+  "homepage": "https://github.com/codewithjavascript/ytViewer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^3.2.0"
+  }
+}
